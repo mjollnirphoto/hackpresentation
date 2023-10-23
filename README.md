@@ -107,7 +107,7 @@ Todo ello es de manera totalmente voluntaría y tendras que informar al centro d
 
 -  <div style="text-align: justify">✅ ALUMNOS : A lo largo de las charlas puedes ir conociendo a otros alumnos de diferentes grupos, algo que siempre sirve para conocer gente del medio, crear proyectos colaborativos y seguir practicando y aprendiendo cosas nuevas día a día.</div> 
 
-<center><img src="https://media.licdn.com/dms/image/C4E12AQEjWBjQwjrEDA/article-inline_image-shrink_400_744/0/1593470640885?e=1697673600&v=beta&t=dq6ZdbhN--pk6jh76fUCJrhA_cnYWgY1VdTkQM1xV0I"></center>
+<center><img src="https://media.tenor.com/yvkQxBFEBbMAAAAC/class-notes.gif"></center>
 
 -  <div style="text-align: justify">✅ MATERIAS : Como se trata de un mundo que esta en continuo aprendizaje tienes la posibilidad de ir aprendiendo lenguajes que estan siendo muy demandados por empresas del sector. Tener cada día nuevas charlas de diferentes lenguajes, de diferentes prácticas y de cosas nuevas, proporciona un conocimiento y una base al alumno muy muy buena.</div> 
 

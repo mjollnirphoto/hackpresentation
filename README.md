@@ -111,7 +111,7 @@ Todo ello es de manera totalmente voluntaría y tendras que informar al centro d
 
 -  <div style="text-align: justify">✅ MATERIAS : Como se trata de un mundo que esta en continuo aprendizaje tienes la posibilidad de ir aprendiendo lenguajes que estan siendo muy demandados por empresas del sector. Tener cada día nuevas charlas de diferentes lenguajes, de diferentes prácticas y de cosas nuevas, proporciona un conocimiento y una base al alumno muy muy buena.</div> 
 
-<center><img src="https://64.media.tumblr.com/768497075fa239e3ead882a60f43b0ee/1a35ff84189f558c-96/s540x810/5ea961a707a3c0d96b23066f011bfb7555dbd041.gifv"></center>
+<center><img src="https://i.pinimg.com/originals/17/07/86/170786272cdd3790137bf379d14e2807.gif"></center>
 
 ---
 

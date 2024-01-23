@@ -28,7 +28,7 @@ Todo ello desde el humilde punto de vista de un ex-alumno.
 ## 1. Bootcamp Fullstack.
 
 
-Estamos ante una formación de aproximadamente 5/6 meses de duración 💻 en donde se veran una serie de lenguajes de programación, librerías, framkeworks ... ( **Html, CSS, JavaScript, MySql, Node, React , Postman ...** (https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) .
+Estamos ante una formación de aproximadamente 5/6 meses de duración 💻 en donde se veran una serie de lenguajes de programación, librerías, framkeworks ... ( **Html, CSS, JavaScript, MySql, Node, React , Postman ...** [html](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) .
 
 Dicha formación trata de hacernos aprender lo esencial en programación web fullstack, de ir poniendo los cimientos a nuestra futura carrera de desarrolladores .
 

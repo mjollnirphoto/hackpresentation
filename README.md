@@ -1,7 +1,7 @@
 ##  _HACK A BOSS_ 
 <div class="pull-right"><center><img align="center" width="120" height="120" src="https://avatars.githubusercontent.com/u/105273959?s=280&v=4"/></center></div>
 
-Hacemos una pequeña presentación de todo lo que hemos visto y vivido en los meses de formación del Bootcamp tratando de analizar de forma objetiva todos los detalles, la matería, las clases, los proyectos ...
+Hacemos una pequeña presentación de todo lo que hemos visto y vivido en los meses de formación del Bootcamp tratando de analizar de forma objetiva todos los detalles, la materia, las clases, los proyectos ...
 
 También analizamos la Boost Academy, las charlas, las formaciones certificadas, las reuniones con empresas ...
 
@@ -10,7 +10,7 @@ Todo ello desde el humilde punto de vista de un ex-alumno.
 
 ---
 
-### Temario :
+### Índice :
 1. Bootcamp Fullstack.
     - Puntos Positivos.
     - Posibles Mejoras.
@@ -71,7 +71,7 @@ Dicha formación trata de hacernos aprender lo esencial en programación web ful
 
 <center><img src="https://media.tenor.com/1Fo_XpvPw0AAAAAC/the-simpsons-cellphone.gif"></center>
 
--  <div style="text-align: justify">❓ Que algunas empresas que daran charlas en la Boots Academy puedan ver la presentación de algunos de los proyectos realizados durante el Bootcamp, de esta manera podrán fijarse en los puntos fuertes del alumnado, la capacidad de diseño de los proyectos, la forma en la que se estructura un código , la manera en la que se presenta el proyecto, la creación de la documentación ...</div> 
+-  <div style="text-align: justify">❓ Que algunas empresas que darán charlas en la Boots Academy puedan ver la presentación de algunos de los proyectos realizados durante el Bootcamp, de esta manera podrán fijarse en los puntos fuertes del alumnado, la capacidad de diseño de los proyectos, la forma en la que se estructura un código , la manera en la que se presenta el proyecto, la creación de la documentación ...</div> 
 
 -  <div style="text-align: justify">❓ Dedicar más tiempo a la explicación de todo lo relacionado con el mundo Git (GitLab, GitHub), para poder dominarlo en detalle, practicar subir proyectos en diferentes ramas, posibles errores o conflictos ...</div> 
 
@@ -82,11 +82,11 @@ Dicha formación trata de hacernos aprender lo esencial en programación web ful
 
 <center><img src="https://64.media.tumblr.com/tumblr_macydaFSm51qlrlr7o1_500.gif"></center>
 
--  <div style="text-align: justify">❓ En caso de que el curso sea presencial, poder ir conociendo a todos los miembros del equipo a lo largo del curso, de esta forma facilitarías el trato entre todos ellos y fomentarias la comunidad.</div> 
+-  <div style="text-align: justify">❓ En caso de que el curso sea presencial, poder ir conociendo a todos los miembros del equipo a lo largo del curso, de esta forma facilitarías el trato entre todos ellos y fomentarías la comunidad.</div> 
 
--  <div style="text-align: justify">❓ Enseñar como subir los proyectos a una web bajo un dominio, como poder subir el FrontEnd, BackEnd, Bases de Datos ... de tal forma que al final del curso tengas subido a una web todos tus proyectos.</div> 
+-  <div style="text-align: justify">❓ Enseñar cómo subir los proyectos a una web bajo un dominio, como poder subir el FrontEnd, BackEnd, Bases de Datos ... de tal forma que al final del curso tengas subido a una web todos tus proyectos.</div> 
 
--  <div style="text-align: justify">❓ MATERIAL : Una opción muy interesante es el "alquiler" de un equipo reacondicionado. Aquí estaría genial poder escoger tu el SO (Linux, Mac OS, Debian, Ubuntu ... ) , ya que es bueno practicar en un sistema que tu no utilizas en tu equipo para irnos familiarizando con nuevos entornos , instalaciones de manera diferente ... esto nos puede ayudar mucho a la hora de empezar a trabajar en una empresa.  No estaría mal que uno de los posibles "premios" fuera hacerte con un equipo reacondiciona, incluso dar al alumno la opción de comprar dicho equipo o que una empresa local hicieran algun descuento.</div> 
+-  <div style="text-align: justify">❓ MATERIAL : Una opción muy interesante es el "alquiler" de un equipo reacondicionado. Aquí estaría genial poder escoger tú el SO (Linux, Mac OS, Debian, Ubuntu ... ) , ya que es bueno practicar en un sistema que tú no utilizas en tú equipo para irnos familiarizando con nuevos entornos , instalaciones de manera diferente ... esto nos puede ayudar mucho a la hora de empezar a trabajar en una empresa.  No estaría mal que uno de los posibles "premios" fuera hacerte con un equipo reacondicionado, incluso dar al alumno la opción de comprar dicho equipo o que una empresa local hiciera algun descuento.</div> 
 
 ---
 
@@ -154,7 +154,7 @@ Todo ello es de manera totalmente voluntaría y tendras que informar al centro d
 
 <center><img src="Captura de pantalla 2023-09-14 a las 12.45.45.png"></center>
 
--  <div style="text-align: justify"> 🌍 HACK A BOSS IN WORLD : Una inciativa que sería interesante, importante y una gran campaña de publiciudad para el centro, ¿ porque no pedir al alumno que fuera de vacaciones, de ruta ... ? fotos con el logo de Hack a Boss en diferentes lugares del mundo, con la camiseta ... sería una forma diferente de enganchar a más alumnos y de publicidad.</div> 
+-  <div style="text-align: justify"> 🌍 HACK A BOSS IN WORLD : Una inciativa que sería interesante, importante y una gran campaña de publicidad para el centro, ¿ porque no pedir al alumno que fuera de vacaciones, de ruta ... ? fotos con el logo de Hack a Boss en diferentes lugares del mundo, con la camiseta ... sería una forma diferente de enganchar a más alumnos y de publicidad.</div> 
 
 <center><img src="https://i.gifer.com/E5v0.gif"></center>
 
